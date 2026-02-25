@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Vignesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Java+%7C+Spring+Boot;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Python+Programmer;JavaScript+Enthusiast;Backend+%7C+Full+Stack+Developer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Student (CSBS)
-- 💼 Passionate Full Stack Developer
-- 🤖 AI & Backend Systems Builder
-- 🧠 Competitive Programmer
-- 🔥 Focused on Placement & Real-World Projects
+- 🎓 B.Tech (CCE) Student  
+- 💻 Strong in Java, Python & JavaScript  
+- 🔥 Backend Development Enthusiast  
+- 🤖 Interested in AI & Real-World Projects  
+- 🎯 Focused on Product-Based Company Placements  
 
 ---
 
 ## 🌌 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,flutter,firebase,mysql,git,github,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,mysql&theme=dark" />
 </p>
 
 ---
@@ -37,14 +37,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&row=1&column=6" />
 </p>
 
 ---
