@@ -12,7 +12,6 @@
 💻 Java • Python • JavaScript Developer  
 🔥 Backend & Full Stack Enthusiast  
 🤖 AI Projects Builder  
-🎯 Placement Focused Developer  
 
 ---
 
