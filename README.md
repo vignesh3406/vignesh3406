@@ -24,7 +24,7 @@
 
 ---
 
-## 🌌 Tech Stack (Neon Style)
+## 🌌 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,mysql&theme=dark"/>
